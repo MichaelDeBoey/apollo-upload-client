@@ -53,21 +53,21 @@
     "extract-files": "^13.0.0"
   },
   "devDependencies": {
-    "@apollo/client": "^4.0.2",
-    "@eslint/js": "^9.34.0",
-    "@types/node": "^24.3.0",
+    "@apollo/client": "^4.1.6",
+    "@eslint/js": "^9.39.3",
+    "@types/node": "^25.3.3",
     "coverage-node": "^8.0.0",
-    "esbuild": "^0.25.9",
-    "eslint": "^9.34.0",
+    "esbuild": "^0.27.3",
+    "eslint": "^9.39.3",
     "eslint-plugin-optimal-modules": "^3.0.0",
     "eslint-plugin-simple-import-sort": "^12.1.1",
-    "graphql": "^16.11.0",
+    "graphql": "^16.13.0",
     "graphql-tag": "^2.12.6",
     "gzip-size": "^7.0.0",
-    "prettier": "^3.6.2",
+    "prettier": "^3.8.1",
     "revertable-globals": "^4.0.0",
     "rxjs": "^7.8.2",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.3"
   },
   "scripts": {
     "prettier": "prettier -c .",

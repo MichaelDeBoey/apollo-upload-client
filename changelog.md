@@ -4,6 +4,7 @@
 
 ### Patch
 
+- Updated dev dependencies.
 - Updated the readme code examples.
 
 ## 19.0.0
